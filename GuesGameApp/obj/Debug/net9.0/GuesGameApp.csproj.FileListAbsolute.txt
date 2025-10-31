@@ -1,0 +1,15 @@
+C:\Users\sozfi\OneDrive\Masaüstü\programming1\GuesGameApp\bin\Debug\net9.0\GuesGameApp.exe
+C:\Users\sozfi\OneDrive\Masaüstü\programming1\GuesGameApp\bin\Debug\net9.0\GuesGameApp.deps.json
+C:\Users\sozfi\OneDrive\Masaüstü\programming1\GuesGameApp\bin\Debug\net9.0\GuesGameApp.runtimeconfig.json
+C:\Users\sozfi\OneDrive\Masaüstü\programming1\GuesGameApp\bin\Debug\net9.0\GuesGameApp.dll
+C:\Users\sozfi\OneDrive\Masaüstü\programming1\GuesGameApp\bin\Debug\net9.0\GuesGameApp.pdb
+C:\Users\sozfi\OneDrive\Masaüstü\programming1\GuesGameApp\obj\Debug\net9.0\GuesGameApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sozfi\OneDrive\Masaüstü\programming1\GuesGameApp\obj\Debug\net9.0\GuesGameApp.AssemblyInfoInputs.cache
+C:\Users\sozfi\OneDrive\Masaüstü\programming1\GuesGameApp\obj\Debug\net9.0\GuesGameApp.AssemblyInfo.cs
+C:\Users\sozfi\OneDrive\Masaüstü\programming1\GuesGameApp\obj\Debug\net9.0\GuesGameApp.csproj.CoreCompileInputs.cache
+C:\Users\sozfi\OneDrive\Masaüstü\programming1\GuesGameApp\obj\Debug\net9.0\GuesGameApp.sourcelink.json
+C:\Users\sozfi\OneDrive\Masaüstü\programming1\GuesGameApp\obj\Debug\net9.0\GuesGameApp.dll
+C:\Users\sozfi\OneDrive\Masaüstü\programming1\GuesGameApp\obj\Debug\net9.0\refint\GuesGameApp.dll
+C:\Users\sozfi\OneDrive\Masaüstü\programming1\GuesGameApp\obj\Debug\net9.0\GuesGameApp.pdb
+C:\Users\sozfi\OneDrive\Masaüstü\programming1\GuesGameApp\obj\Debug\net9.0\GuesGameApp.genruntimeconfig.cache
+C:\Users\sozfi\OneDrive\Masaüstü\programming1\GuesGameApp\obj\Debug\net9.0\ref\GuesGameApp.dll
