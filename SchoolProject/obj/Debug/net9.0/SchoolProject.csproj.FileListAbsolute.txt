@@ -1,0 +1,15 @@
+C:\Users\sozfi\OneDrive\Masaüstü\programming1\SchoolProject\bin\Debug\net9.0\SchoolProject.exe
+C:\Users\sozfi\OneDrive\Masaüstü\programming1\SchoolProject\bin\Debug\net9.0\SchoolProject.deps.json
+C:\Users\sozfi\OneDrive\Masaüstü\programming1\SchoolProject\bin\Debug\net9.0\SchoolProject.runtimeconfig.json
+C:\Users\sozfi\OneDrive\Masaüstü\programming1\SchoolProject\bin\Debug\net9.0\SchoolProject.dll
+C:\Users\sozfi\OneDrive\Masaüstü\programming1\SchoolProject\bin\Debug\net9.0\SchoolProject.pdb
+C:\Users\sozfi\OneDrive\Masaüstü\programming1\SchoolProject\obj\Debug\net9.0\SchoolProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sozfi\OneDrive\Masaüstü\programming1\SchoolProject\obj\Debug\net9.0\SchoolProject.AssemblyInfoInputs.cache
+C:\Users\sozfi\OneDrive\Masaüstü\programming1\SchoolProject\obj\Debug\net9.0\SchoolProject.AssemblyInfo.cs
+C:\Users\sozfi\OneDrive\Masaüstü\programming1\SchoolProject\obj\Debug\net9.0\SchoolProject.csproj.CoreCompileInputs.cache
+C:\Users\sozfi\OneDrive\Masaüstü\programming1\SchoolProject\obj\Debug\net9.0\SchoolProject.sourcelink.json
+C:\Users\sozfi\OneDrive\Masaüstü\programming1\SchoolProject\obj\Debug\net9.0\SchoolProject.dll
+C:\Users\sozfi\OneDrive\Masaüstü\programming1\SchoolProject\obj\Debug\net9.0\refint\SchoolProject.dll
+C:\Users\sozfi\OneDrive\Masaüstü\programming1\SchoolProject\obj\Debug\net9.0\SchoolProject.pdb
+C:\Users\sozfi\OneDrive\Masaüstü\programming1\SchoolProject\obj\Debug\net9.0\SchoolProject.genruntimeconfig.cache
+C:\Users\sozfi\OneDrive\Masaüstü\programming1\SchoolProject\obj\Debug\net9.0\ref\SchoolProject.dll
